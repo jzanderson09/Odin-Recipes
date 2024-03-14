@@ -6,5 +6,5 @@ Odin Recipes project displays the following HTML Foundations:
 - HTML Lists
 - HTML Links
 - HTML Images
-- Standard git commits (Subject and Body)
+- Standard Git commits (Subject and Body)
 
