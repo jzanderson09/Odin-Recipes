@@ -1,0 +1,6 @@
+@import url(./style.css);
+
+body {
+    background-size: cover;
+    height: 100vh;
+}
